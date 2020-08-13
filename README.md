@@ -3,7 +3,7 @@
 ![pwa](https://user-images.githubusercontent.com/52837649/89746396-6cdbb680-da87-11ea-8f27-c74d3218aa61.gif)
 
 ## Description
-The Weather App allows users to check the weather condition in a city entered by users. It is a progressive web application that can not only run in a browser tab but are also installable in computer or mobile device. 
+The Weather App allows users to check the weather condition in any city. It is a progressive web application that can not only run in a browser tab but is also installable on a computer or a mobile device. 
 
 
 ## Table of Contents
